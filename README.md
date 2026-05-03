@@ -9,3 +9,5 @@ The purpose of this repository is to have a centralized place where I can store 
 ## How to use it?
 
 Just open the folder of the project that you are interested in and choose the video that you want to see, I have “Long”, “Medium”, “Short” or “Quick” video presentations, the longer the presentation, the more level of detail it contains.
+
+Note: In the comments section of the selected video, there is an index where you can select a specific topic that you want to hear and the presentation will skip to that particular point of time, the "Quick" video presentation doesn't have that index section.
