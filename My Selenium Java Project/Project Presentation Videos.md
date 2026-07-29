@@ -1,7 +1,2 @@
-Long:   "https://youtu.be/4KotpW2qGgk?t=0s"
-
-Medium: "https://youtu.be/9z4VjG5F2YY?t=0s"
-
-Short:  "https://youtu.be/iaZCLIbDDhs?t=0s"
-
-Quick:  "https://youtu.be/xkEEVVSeYNY?t=0s"
+Long:   "https://youtu.be/_rvcQJqvIfw?t=8s"
+Quick:  "https://youtu.be/3noQMArHqXY?t=0s"
